@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-03-29T06:09:34Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "blinker-with-leds"
+        },
+        "Owner": "Igor Katkov <ikatkov@gmail.com>",
+        "Size": {
+            "X": 25.705,
+            "Y": 20.31
+        }
+    }
+}
