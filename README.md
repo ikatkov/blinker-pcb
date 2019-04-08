@@ -5,8 +5,12 @@ I was curious how small I can go. On this board traces are 25mil. I found that t
 
 ![PCB Assembled](https://github.com/ikatkov/blinker-pcb/blob/master/pcb-assembled.jpg?raw=true)
 
+Connectors are [JST-XHP][2], the rest is from [AliExpress][3]
+
 ![PCB Layers](https://github.com/ikatkov/blinker-pcb/blob/master/pcb.jpg?raw=true)
 ![PCB Top](https://github.com/ikatkov/blinker-pcb/blob/master/pcb-top.jpg?raw=true)
 ![PCB Bottom](https://github.com/ikatkov/blinker-pcb/blob/master/pcb-bottom.jpg?raw=true)
 
 [1]: https://www.electronics-tutorials.ws/waveforms/astable.html
+[2]: https://www.amazon.com/gp/product/B0774TF39N
+[3]: https://www.aliexpress.com
